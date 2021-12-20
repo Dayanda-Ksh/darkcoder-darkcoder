@@ -1,0 +1,26 @@
+{
+    "name": "darkcoder-darkcoder",
+    "displayName": "darkcode darkcoder ",
+    "description": "darkcoder darkcoder theme !",
+    "version": "0.0.1",
+    "publisher": "dark0943coder3398",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dayanda-Ksh/darkcoder-darkcoder.git"
+    },
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "darkcoder darkcoder",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darkcoder darkcoder-color-theme.json"
+            }
+        ]
+    }
+}
