@@ -1,7 +1,7 @@
 {
-    "name": "darkcoder-darkcoder",
-    "displayName": "darkcode darkcoder ",
-    "description": "darkcoder darkcoder theme !",
+    "name": "crepuscule",
+    "displayName": "Crepuscule",
+    "description": "a time or place of little or no light !",
     "version": "0.0.1",
     "publisher": "dark0943coder3398",
     "repository": {
@@ -12,7 +12,10 @@
         "theme",
         "darkcoder darcoder",
         "dark theme",
-        "dayananda ksh"
+        "dayananda ksh",
+        "tenebrous",
+        "crepuscule",
+        "darkcoder's theme"
     ],
     "engines": {
         "vscode": "^1.54.0"
